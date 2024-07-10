@@ -21,7 +21,7 @@ export const Navbar = ({ user }) => {
     return (
         <div className='navbox'>
             <div className='leftside'>
-                <img src="logobg.png" alt="" />
+                <img src="bell-clip-art-bell.jpg" alt="" />
             </div>
             <div className='middleside'>
                 <h2>Maheshwari Stores</h2>
