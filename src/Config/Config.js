@@ -6,13 +6,12 @@ import { getStorage } from 'firebase/storage';
 
 // Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyA6BsB5neNBVH3SDrJdAUfBvHph7MceKH4",
-    authDomain: "ecommeerce-a6c2c.firebaseapp.com",
-    databaseURL: "https://ecommeerce-a6c2c-default-rtdb.firebaseio.com",
-    projectId: "ecommeerce-a6c2c",
-    storageBucket: "ecommeerce-a6c2c.appspot.com",
-    messagingSenderId: "1075832413721",
-    appId: "1:1075832413721:web:25896935bd92eb32721488"
+  apiKey: "AIzaSyD8Z6_cNABBqCBpFhbiwsnigByJIfrhT-E",
+  authDomain: "myecom-c2047.firebaseapp.com",
+  projectId: "myecom-c2047",
+  storageBucket: "myecom-c2047.appspot.com",
+  messagingSenderId: "921863736089",
+  appId: "1:921863736089:web:c3a8594dcfb45fdf589388"
 };
 
 // Initialize Firebase
